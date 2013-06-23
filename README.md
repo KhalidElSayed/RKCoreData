@@ -1,0 +1,4 @@
+RKCoreData
+==========
+
+Lightweight CoreData wrapper. 
